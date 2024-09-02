@@ -1,1 +1,2 @@
-# fashion-recommendation-system-using-CNN
+# Fashion_recommendention_system
+A Fashion recommendation system using resnet-50
